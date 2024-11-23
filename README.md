@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... AI
 - 📫 How to reach me ... Mail Me faiqsshah@gmail.com
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ..."I beleive ever bug is a feature watiting to happen!"
+- ⚡ Fun fact: ..."I believe ever bug is a feature watting to happen!"
 
 <!---
 faiqsshah/faiqsshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
